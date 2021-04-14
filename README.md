@@ -46,6 +46,6 @@ Family
 
 FCS does amazing work and serves a wide variety of Nashville's population as seen through their demographic statistics.  We are hopeful that FCS can utilize this information to gain additional funding and increase their reach even further.
 
-![age_issues](../main/images/Age_Top5_issues.jpg)
+![age_issues](../main/images/Age_Top5_Issues.jpg)
 
 ![ethnicity_issues](../main/images/Ethnicity_Top5_issues.jpg)
