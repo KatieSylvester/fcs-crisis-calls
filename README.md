@@ -22,8 +22,6 @@ Nashville’s Family & Children’s Service (FCS) serves all people in crisis an
 Python
 - pandas
 - matplotlib
-
-<br>
 <br>
 
 ## <a name="files"></a>Files in this Repository
