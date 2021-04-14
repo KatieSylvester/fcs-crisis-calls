@@ -36,7 +36,7 @@ I analyzed call statistics for each demographic group including call volume coun
 
 I also found the Top 5 crisis issues for each demographic group and graphed the prevalence of those 5 issues within each subset of a demographic.  
 
-Interestingly, there were six primary crisis issues we saw that persistently repeated through the Top 5 of the demographic groups:
+Interestingly, there were six primary crisis issues we saw that persistently repeated through the Top 5 of the demographic groups - 
 Anxious/Stressed
 Lonely
 Overwhelmed
@@ -44,4 +44,4 @@ Anxiety/Panic
 Sad/Depressed
 Family
 
-FCS does amazing work and serves a wide variety of demographic groups.  With known
+FCS does amazing work and serves a wide variety of Nashville's population as seen through their demographic statistics.  We are hopeful that FCS can utilize this information to gain additional funding and increase their reach even further.
