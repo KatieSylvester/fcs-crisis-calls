@@ -1,15 +1,15 @@
 ## Family & Children’s Service Crisis Calls Demographics<br>
 
 ![logo](../main/images/fcs_logo.png)
+http://www.fcsnashville.org/
 <br>
 <br>
 
 ## Table of Contents
 * [General Information](#general-information)
-[Technologies](#technologies)
+* [Technologies](#technologies)
 * [Files in this Repository](#files)
 * [Analysis/Conclusions](#analysis)
-*
 <br>
 <br>
 
@@ -20,8 +20,8 @@ Nashville’s Family & Children’s Service (FCS) serves all people in crisis an
 
 ## <a name="technologies"></a>Technologies
 Python
-pandas
-matplotlib
+- pandas
+- matplotlib
 
 <br>
 <br>
