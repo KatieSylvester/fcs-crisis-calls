@@ -24,8 +24,8 @@ Nashville’s Family & Children’s Service (FCS) serves all people in crisis an
 <br>
 
 ## <a name="files"></a>Files in this Repository
-Notebooks folder contains analysis.
-Images folder contains graphs from findings.
+Notebooks folder contains analysis. \
+Images folder contains graphs from findings. \
 Note: this was a class project, but all code in this repo is mine.<br>
 <br>
 
