@@ -11,7 +11,6 @@ http://www.fcsnashville.org/
 * [Files in this Repository](#files)
 * [Analysis/Conclusions](#analysis)
 <br>
-<br>
 
 ## <a name="general-information"></a>General Information
 Nashville’s Family & Children’s Service (FCS) serves all people in crisis and transition by meeting them where they are, understanding their needs, and connecting them to the resources they need.  FCS tasked our class with analysis of their 2020 crisis calls.  Our team was tasked with analysis of the demographics. 
