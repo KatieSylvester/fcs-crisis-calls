@@ -48,4 +48,4 @@ FCS does amazing work and serves a wide variety of Nashville's population as see
 
 ![age_issues](../main/images/Age_Top5_Issues.jpg)
 
-![ethnicity_issues](../main/images/Ethnicity_Top5_issues.jpg)
+![ethnicity_issues](../main/images/Ethnicity_Top5_Issues.jpg)
