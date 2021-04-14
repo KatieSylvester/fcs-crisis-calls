@@ -24,13 +24,13 @@ Nashville’s Family & Children’s Service (FCS) serves all people in crisis an
 <br>
 
 ## <a name="files"></a>Files in this Repository
-- Notebooks folder contains analysis. \
+- Notebooks folder contains analysis. 
 - Images folder contains graphs from findings. \
 Note: this was a class project, but all code in this repo is mine.<br>
 <br>
 
 ## <a name="analysis"></a>Analysis/Conclusions
-There are 9 demographic parameters: Age, Ethnicity, Gender Identity, Education Level, Income, Marital Status, Disability Status, Homeless Status and Military Status.  
+There are 9 demographic parameters within the dataset: Age, Ethnicity, Gender Identity, Education Level, Income, Marital Status, Disability Status, Homeless Status and Military Status.  
 
 I analyzed call statistics for each demographic group including call volume counts, call volume as a percentage of total call volume, average call length, average number of issues presented per call and average number of Imminent Risk issues presented per call.
 
@@ -45,3 +45,6 @@ Sad/Depressed
 Family
 
 FCS does amazing work and serves a wide variety of Nashville's population as seen through their demographic statistics.  We are hopeful that FCS can utilize this information to gain additional funding and increase their reach even further.
+
+![age_issues](../main/images/Age_Top5_issues.jpg)
+![ethnicity_issues](../main/images/Ethnicity_Top5_issues.jpg)
